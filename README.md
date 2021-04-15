@@ -5,6 +5,6 @@
 The LseeStudio shield uses MCP2515, MCP2551 and 16MHz oscillator.
 It can reuse the SeeeStudio CAN Shield library.
 
-NOTICE: The shiled in picture is an old edition and DOES NOT reserve SCL/SDA pins near AREF.
+NOTICE: The shiled in picture is an old edition and DOES NOT reserve SCL/SDA pins near AREF pin.
 
 ![image](https://gitee.com/sunarvin/can_bus/raw/master/images/CAN-BUS_Shield.jpg)
